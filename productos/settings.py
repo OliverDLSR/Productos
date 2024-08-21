@@ -60,7 +60,7 @@ ROOT_URLCONF = 'productos.urls'
 
 CORS_ORIGIN_ALLOW_ALL = True
 CORS_ALLOWED_ORIGINS = [
-    'https://productos.vercel.app',
+    'https://productos-psi.vercel.app',
     'http://localhost:8000',
 ]
 
