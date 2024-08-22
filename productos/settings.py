@@ -60,7 +60,7 @@ MIDDLEWARE = [
 ROOT_URLCONF = 'productos.urls'
 
 CORS_ORIGIN_ALLOW_ALL = True
-Access-Control-Allow-Origin: https://productos-psi.vercel.app/
+
 
 CORS_ALLOWED_ORIGINS = [
     'https://productos-psi.vercel.app',
@@ -68,6 +68,7 @@ CORS_ALLOWED_ORIGINS = [
     'https://productos-git-main-oliverdlsrs-projects.vercel.app',
     'http://127.0.0.1:8000/',
     'https://oliverdelosantos18.wixstudio.io/productos',
+    'https://vercel.com/oliverdlsrs-projects/productos/GvtLCW4WcVSajw3za61vb9Y8Lhbe',
 ]
 
 CORS_ALLOW_METHODS = [
