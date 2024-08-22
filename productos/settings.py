@@ -63,6 +63,8 @@ ROOT_URLCONF = 'productos.urls'
 CORS_ALLOWED_ORIGINS = [
     'https://productos-psi.vercel.app',
     'http://localhost:8000',
+    'https://productos-git-main-oliverdlsrs-projects.vercel.app/',
+    'http://127.0.0.1:8000/'
 ]
 
 CORS_ALLOW_METHODS = [
