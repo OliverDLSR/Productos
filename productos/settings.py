@@ -59,6 +59,7 @@ MIDDLEWARE = [
 ROOT_URLCONF = 'productos.urls'
 
 CORS_ORIGIN_ALLOW_ALL = True
+Access-Control-Allow-Origin: https://productos-psi.vercel.app/
 
 CORS_ALLOWED_ORIGINS = [
     'https://productos-psi.vercel.app',
