@@ -12,4 +12,7 @@
             "dest": "productos/wsgi.py"
         }
     ]
+
+    "buildCommand": "python manage.py migrate"
+    
 }
